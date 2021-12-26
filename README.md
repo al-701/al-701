@@ -1,7 +1,6 @@
 - 👋 Hi, I’m allan_j and can be reached @al-701.
 - My focus is R, Tableau, Data analysis and Backend Database Development.
-- I'm a Data Analyst and Developer coming from the SAS clinical world and spreading out into the wide world of Open Source ( R, Python, Tableau e.t.c. ).
-- All for creating software to visualize data, applying digital transformation to make the world a better place.
-- I’m looking to collaborate on projects (newbie to the process).
+- I'm a Data Analyst and Developer coming from the clinical laboratory world of SAS, now exploring the broader world of open source development and cloud data engineering (R, Python, Tableau e.t.c. ).
+- And all about creating software to visualize data and applying digital transformation to make the world a better place.
 - 📫 How to reach me - just message me.
-- BTW - I recently discovered Git and Github and they are FANTASTIC.
+- BTW, as a recent newbie to Git and Github, I think it's FANTASTIC.

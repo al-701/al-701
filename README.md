@@ -1,4 +1,3 @@
 - My focus is writing software for data analysis and applying digital transformation, currently using (but not restricted to) R, Tableau and SQL.
 - I'm a data analyst and developer coming from study data and the clinical laboratory world of SAS, transitioning to the world of open source development and cloud data engineering.
-- And I'm all about applying digital transformation to make the world a better place.
 - 📫 How to reach me - find me on LinkedIn and message me.
